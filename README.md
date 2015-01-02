@@ -29,6 +29,8 @@ RPC_METHOD can by any method found in the Bitshares client.
 
 PARAMS is optional for methods that do not take parameters, if needed it should be an array of parameters.
 
+See config.example.json for an example of how to configure the rpc parameters. They should match the parameters in your ".Bitshares/config.json" file.
+
 ##Examples
 
 Some specific use cases:
